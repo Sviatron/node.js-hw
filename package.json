@@ -1,0 +1,21 @@
+{
+  "name": "node.js-hw",
+  "version": "1.0.0",
+  "description": "homework GoITeens",
+  "homepage": "https://github.com/Sviatron/node.js-hw#readme",
+  "bugs": {
+    "url": "https://github.com/Sviatron/node.js-hw/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sviatron/node.js-hw.git"
+  },
+  "license": "ISC",
+  "author": "sviat",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
